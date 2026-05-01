@@ -18,6 +18,7 @@ A simple command-line application to manage your tasks efficiently.
 
 ## Installation
 git clone https://github.com/fluxx-07/todo-cli.git
+
 cd todo-cli
 
 ## Usage
